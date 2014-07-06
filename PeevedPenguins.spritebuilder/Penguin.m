@@ -9,7 +9,6 @@
 #import "Penguin.h"
 
 @implementation Penguin
-
 - (id)init {
     self = [super init];
     
@@ -19,5 +18,4 @@
     
     return self;
 }
-
 @end
