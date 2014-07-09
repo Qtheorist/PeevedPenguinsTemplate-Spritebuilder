@@ -738,8 +738,8 @@
 				<string>Size</string>
 				<key>value</key>
 				<array>
-					<real>780</real>
-					<real>384</real>
+					<real>960</real>
+					<real>320</real>
 					<integer>0</integer>
 					<integer>0</integer>
 				</array>
