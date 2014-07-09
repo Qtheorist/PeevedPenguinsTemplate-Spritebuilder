@@ -738,7 +738,7 @@
 				<string>Size</string>
 				<key>value</key>
 				<array>
-					<real>568</real>
+					<real>780</real>
 					<real>384</real>
 					<integer>0</integer>
 					<integer>0</integer>
@@ -769,6 +769,8 @@
 				</array>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>
