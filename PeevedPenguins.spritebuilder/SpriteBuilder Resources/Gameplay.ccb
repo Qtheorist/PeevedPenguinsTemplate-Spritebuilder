@@ -165,7 +165,7 @@
 					<key>value</key>
 					<array>
 						<real>272.54296875</real>
-						<real>303.68359375</real>
+						<real>308.68359375</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -267,6 +267,8 @@
 					<real>500</real>
 				</dict>
 			</array>
+			<key>selected</key>
+			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -1263,7 +1265,7 @@
 										<key>value</key>
 										<array>
 											<real>274</real>
-											<real>305</real>
+											<real>310</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1315,8 +1317,6 @@
 										<real>-26.803424835205078</real>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 						</array>
 						<key>customClass</key>
