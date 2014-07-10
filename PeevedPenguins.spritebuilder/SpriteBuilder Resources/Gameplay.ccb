@@ -164,8 +164,8 @@
 					<string>Position</string>
 					<key>value</key>
 					<array>
-						<real>244</real>
-						<real>299</real>
+						<real>252.50752258300781</real>
+						<real>309.11712646484375</real>
 						<integer>0</integer>
 						<integer>0</integer>
 						<integer>0</integer>
@@ -202,8 +202,8 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>0.0</real>
-						<real>14</real>
+						<real>3.2300000190734863</real>
+						<real>9.703125</real>
 					</array>
 				</dict>
 				<dict>
@@ -213,7 +213,7 @@
 					<string>Point</string>
 					<key>value</key>
 					<array>
-						<real>14</real>
+						<real>30</real>
 						<real>150</real>
 					</array>
 				</dict>
@@ -246,7 +246,7 @@
 					<string>EnabledFloat</string>
 					<key>value</key>
 					<array>
-						<real>45.863597869873047</real>
+						<real>53.858390808105469</real>
 						<true/>
 					</array>
 				</dict>
@@ -267,6 +267,8 @@
 					<real>500</real>
 				</dict>
 			</array>
+			<key>selected</key>
+			<true/>
 		</dict>
 	</array>
 	<key>jsControlled</key>
@@ -741,8 +743,6 @@
 										</array>
 									</dict>
 								</array>
-								<key>selected</key>
-								<true/>
 							</dict>
 							<dict>
 								<key>UUID</key>
@@ -1256,8 +1256,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
-											<real>244</real>
-											<real>285</real>
+											<real>254</real>
+											<real>299</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1299,6 +1299,14 @@
 											<false/>
 											<integer>0</integer>
 										</array>
+									</dict>
+									<dict>
+										<key>name</key>
+										<string>rotation</string>
+										<key>type</key>
+										<string>Degrees</string>
+										<key>value</key>
+										<real>-26.803424835205078</real>
 									</dict>
 								</array>
 							</dict>
