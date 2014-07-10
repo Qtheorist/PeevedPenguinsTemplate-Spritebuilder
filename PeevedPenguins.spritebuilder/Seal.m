@@ -1,18 +1,14 @@
 //
-//  Seal.m
+//  seal.m
 //  PeevedPenguins
 //
-//  Created by Administrator on 7/6/14.
+//  Created by Administrator on 7/10/14.
 //  Copyright (c) 2014 Apportable. All rights reserved.
 //
 
-#import "Seal.h"
+#import "seal.h"
 
-@implementation Seal
-
-
-
+@implementation seal
 - (void)didLoadFromCCB {
     self.physicsBody.collisionType = @"seal";
-}
-@end
+}@end
