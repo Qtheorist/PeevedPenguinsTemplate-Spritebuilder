@@ -10,7 +10,7 @@
 		<false/>
 	</dict>
 	<key>UUID</key>
-	<integer>19</integer>
+	<integer>23</integer>
 	<key>centeredOrigin</key>
 	<false/>
 	<key>currentResolution</key>
@@ -1119,7 +1119,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>14</integer>
+				<integer>19</integer>
 				<key>baseClass</key>
 				<string>CCBFile</string>
 				<key>children</key>
@@ -1127,7 +1127,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>Seal</string>
+				<string>CCBFile</string>
 				<key>memberVarAssignmentName</key>
 				<string></string>
 				<key>memberVarAssignmentType</key>
@@ -1150,7 +1150,7 @@
 						<key>value</key>
 						<array>
 							<real>27</real>
-							<real>12.5</real>
+							<real>33.5</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1175,13 +1175,13 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>Seal.ccb</string>
+						<string>seal.ccb</string>
 					</dict>
 				</array>
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>15</integer>
+				<integer>20</integer>
 				<key>baseClass</key>
 				<string>CCBFile</string>
 				<key>children</key>
@@ -1189,7 +1189,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>Seal</string>
+				<string>CCBFile</string>
 				<key>memberVarAssignmentName</key>
 				<string></string>
 				<key>memberVarAssignmentType</key>
@@ -1211,8 +1211,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>105</real>
-							<real>117.5</real>
+							<real>124</real>
+							<real>123.5</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1237,7 +1237,7 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>Seal.ccb</string>
+						<string>seal.ccb</string>
 					</dict>
 				</array>
 				<key>selected</key>
@@ -1245,7 +1245,7 @@
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>16</integer>
+				<integer>21</integer>
 				<key>baseClass</key>
 				<string>CCBFile</string>
 				<key>children</key>
@@ -1253,7 +1253,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>Seal</string>
+				<string>CCBFile</string>
 				<key>memberVarAssignmentName</key>
 				<string></string>
 				<key>memberVarAssignmentType</key>
@@ -1275,8 +1275,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>247</real>
-							<real>61.5</real>
+							<real>254</real>
+							<real>64.5</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1301,13 +1301,13 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>Seal.ccb</string>
+						<string>seal.ccb</string>
 					</dict>
 				</array>
 			</dict>
 			<dict>
 				<key>UUID</key>
-				<integer>17</integer>
+				<integer>22</integer>
 				<key>baseClass</key>
 				<string>CCBFile</string>
 				<key>children</key>
@@ -1315,7 +1315,7 @@
 				<key>customClass</key>
 				<string></string>
 				<key>displayName</key>
-				<string>Seal</string>
+				<string>CCBFile</string>
 				<key>memberVarAssignmentName</key>
 				<string></string>
 				<key>memberVarAssignmentType</key>
@@ -1337,8 +1337,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>356</real>
-							<real>15.5</real>
+							<real>375</real>
+							<real>18.500007629394531</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -1363,7 +1363,7 @@
 						<key>type</key>
 						<string>CCBFile</string>
 						<key>value</key>
-						<string>Seal.ccb</string>
+						<string>seal.ccb</string>
 					</dict>
 				</array>
 			</dict>
