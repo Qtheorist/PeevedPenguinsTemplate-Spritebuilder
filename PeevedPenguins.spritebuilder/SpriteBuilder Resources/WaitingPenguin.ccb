@@ -2223,7 +2223,7 @@
 				<key>children</key>
 				<array/>
 				<key>customClass</key>
-				<string></string>
+				<string>WaitingPenguin</string>
 				<key>displayName</key>
 				<string>1</string>
 				<key>memberVarAssignmentName</key>
@@ -2308,6 +2308,8 @@
 						</array>
 					</dict>
 				</array>
+				<key>selected</key>
+				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -2444,9 +2446,9 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>1.6484375</real>
+			<real>0.68177080154418945</real>
 			<key>position</key>
-			<real>4</real>
+			<real>3.0333333015441895</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
